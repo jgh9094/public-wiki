@@ -116,7 +116,7 @@ Some open questions (as of this paper)
 
 ## July 19 - BEACON Seminar (Joseph Graves)
 
-## July 26 - TBD
+## July 26 - Jose Hernandez
 
 ## August 2 - ALife 2019
 
